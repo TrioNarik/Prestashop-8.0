@@ -1,25 +1,31 @@
 {
   "max_position": 2,
-  "premium": {"name": "CategorieaPRO", "link": "oner.pl"}
+  "premium": {
+    "name": "CategorieaPRO",
+    "link": "oner.pl"
+  },
   "modules": {
-     "id": {
-        "name": "Cat2",
-        "info": "Dodatkowe info",
-        "link": "sdsds.pl",
-        "downloads": 23
-        },
-     "id": {
-        "name": "Slider",
-        "info": "Dodatkowe info",
-        "link": "sdsds.pl",
-        "downloads": 34
-        },
-     "id": {
-        "name": "Header",
-        "info": "Dodatkowe info",
-        "link": "sdsds.pl",
-        "downloads": 10
-        },
-   },
-  "donate": {"button": "paypal", "link": "pay.pl"}
+    "id1": {
+      "name": "Cat2",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 23
+    },
+    "id2": {
+      "name": "Slider",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 34
+    },
+    "id3": {
+      "name": "Header",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 10
+    }
+  },
+  "donate": {
+    "button": "paypal",
+    "link": "pay.pl"
+  }
 }
