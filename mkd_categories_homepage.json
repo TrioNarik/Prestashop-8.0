@@ -2,6 +2,11 @@
   "max_position": 3,
   "premium": {
     "name": "CategorieaPRO",
+    "upgrade": {
+      "id1": "more fasted",
+      "id2": "more option avaible",
+      "id3": "clear cache",
+    },
     "link": "oner.pl"
   },
   "modules": {
