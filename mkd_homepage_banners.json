@@ -1,1 +1,42 @@
-
+{
+  "max_position": 3,
+  "premium": {
+    "name": "CategorieaPRO",
+    "upgrade": {
+      "id1": "more fasted",
+      "id2": "more option available",
+      "id3": "clear cache"
+    },
+    "link": "oner.pl"
+  },
+  "modules": {
+    "id1": {
+      "name": "Cat2gfgf ffgf",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 23
+    },
+    "id2": {
+      "name": "Slid fdfdf  gfgf gfger",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 34
+    },
+    "id3": {
+      "name": "Headccvcvcx v d dfdsfdfdf er",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 10
+    },
+    "id4": {
+      "name": "Headdddddder",
+      "info": "Dodatkowe info",
+      "link": "sdsds.pl",
+      "downloads": 10
+    }
+  },
+  "donate": {
+    "button": "paypal",
+    "link": "pay.pl"
+  }
+}
