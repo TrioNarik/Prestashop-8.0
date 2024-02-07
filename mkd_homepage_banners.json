@@ -1,13 +1,13 @@
 {
   "max_position": 5,
   "premium": {
-    "name": "CategorieaPRO",
+    "name": "Banners +PRO",
     "upgrade": {
       "id1": "more fasted",
       "id2": "more option available",
       "id3": "clear cache"
     },
-    "link": "oner.pl"
+    "link": "http://oner.pl"
   },
   "modules": {
     "id1": {
