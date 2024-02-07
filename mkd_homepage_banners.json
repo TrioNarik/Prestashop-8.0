@@ -42,7 +42,7 @@
     }
   },
   "donate": {
-    "button": "PayPal",
+    "button": "Donate with PayPal",
     "link": "pay.pl"
   }
 }
