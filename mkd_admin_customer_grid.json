@@ -38,6 +38,6 @@
   },
   "donate": {
     "button": "PayPal",
-    "link": "pay.pl"
+    "link": "http://www.pay.pl"
   }
 }
