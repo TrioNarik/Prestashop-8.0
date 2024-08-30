@@ -37,7 +37,7 @@
     }
   },
   "donate": {
-    "button": "paypal",
+    "button": "PayPal",
     "link": "pay.pl"
   }
 }
